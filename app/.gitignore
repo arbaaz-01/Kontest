@@ -1,1 +1,9 @@
-/build
+# Ignore build and IDE files
+*.iml
+.gradle/
+/build/
+.idea/
+
+# Ignore local configuration files
+local.properties
+*.log
