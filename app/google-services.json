@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "218085452380",
+    "project_id": "kontest-aafd9",
+    "storage_bucket": "kontest-aafd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218085452380:android:46bf09c4c5dbcfa98b1499",
+        "android_client_info": {
+          "package_name": "com.kontest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218085452380-bccq983frqhp62d9166tjfs86irtj1o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HEA2tgXwp2ISVO8nlSaUIGP6yLv36OU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218085452380-bccq983frqhp62d9166tjfs86irtj1o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
